@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ImageProwser:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ImageProwser_jar</output-path>
+    <root id="archive" name="ImageProwser.jar">
+      <element id="module-output" name="ImageBrowser" />
+    </root>
+  </artifact>
+</component>
