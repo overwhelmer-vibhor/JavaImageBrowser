@@ -5,4 +5,4 @@
 - All image files (jpg,png) in the selected directory can be scrolled through.
 - Images are resized while maintaining the aspect ratio.
 - Warnings are displayed on reaching first/last image in the given directory.
-- This is a Test Change.
+- This is a Test.
